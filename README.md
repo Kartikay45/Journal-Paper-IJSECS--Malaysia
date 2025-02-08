@@ -1,4 +1,4 @@
-# GAN-Isolation Forest for Stock Market Anomaly Detection
+# LSTM-GAN-Isolation Forest for Stock Market Anomaly Detection
 
 This project implements a hybrid anomaly detection system using Generative Adversarial Networks (GANs) and Isolation Forest on stock market data. The goal is to identify unusual patterns in stock prices that may indicate fraudulent activities or significant market events.
 
