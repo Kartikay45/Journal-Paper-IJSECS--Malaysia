@@ -63,6 +63,4 @@ The final output is a plot of stock prices with identified anomalies marked in r
 - @19tanishq
 
 
-## License
-This project is open-source and available under the MIT License.
 
